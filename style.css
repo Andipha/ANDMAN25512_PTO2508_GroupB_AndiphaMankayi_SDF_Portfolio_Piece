@@ -1,0 +1,13 @@
+:root {
+    font-size: 10px;
+}
+
+body{
+    background-image: url(Image/background.png);
+
+}
+
+.container{
+    width: 1322px;
+    margin: 63px 59px;
+}
