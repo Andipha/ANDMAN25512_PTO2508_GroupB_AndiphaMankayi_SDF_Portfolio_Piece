@@ -1,4 +1,3 @@
-# ANDMAN25512_PTO2508_GroupB_AndiphaMankayi_SDF_Portfolio_Piece
 # 💻 Resume Project  
 
 This is my first major portfolio project a clean and responsive personal resume  as part of my journey as a  **Software Development student**.  
