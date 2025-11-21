@@ -4,6 +4,11 @@
 
 body{
     background-image: url(Image/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-family: "Poppins", sans-serif;
+    
 
 }
 
@@ -12,7 +17,7 @@ body{
     margin: 63px 59px;
 }
 
-.profile-section {
+.profile-section{
   height: 300px;
   display: grid;
   grid-template-columns: 300.1px 994.69px;
@@ -35,7 +40,7 @@ body{
   color: #696868;
 }
 
-.profeciency-skills{
+.proficiency-skills{
     display: flex;
     font-size: 24.2px;
     gap: 48.1px;
@@ -50,7 +55,7 @@ body{
     padding: 51.14px 27.4px;
 }
 
-.proficiancy-levels {
+.proficiency-leves {
     font-size: 24.2px;
     font-weight: 500;
     margin: 30px 0;
@@ -66,7 +71,7 @@ body{
     margin-top: 2.34rem;
 }
 
-.skills-bar-level{
+.skill-bar-level{
     display: grid;
     grid-template-columns: 141px 321.88px;
     column-gap: 46.21px;
@@ -339,7 +344,7 @@ ul {
     margin-top: 3.2rem;
 }
 
-.lagueges {
+.languages {
     background-color: #E7F0EC;
     width: 18.39rem;
     border-radius: 1.452rem;
@@ -347,7 +352,7 @@ ul {
     text-align: center;
 }
 
-.lagueges p {
+.language p {
     background-color: rgba(0, 0, 0, 1);
     font-size: 12.1px;
     font-weight: 500;
@@ -357,7 +362,7 @@ ul {
     margin: -1.2rem 4.3rem 2.414rem 4.6rem;
 }
 
-.laguege {
+.language {
     display: grid;
     grid-template-columns: 4.11rem 4.11rem;
     justify-content: center;
@@ -430,7 +435,7 @@ ul {
     border-radius: 14.279rem;
 }
 
-.work-2, .work-3 {
+.experience-2, .experience-3 {
     background-color: #E7F0EC;
     display: grid;
     grid-template-columns: 29.5rem 79.3rem;
@@ -442,7 +447,7 @@ ul {
 
 }
 
-.work-1 {
+.experience-1 {
     background-color: #4A8B70;
     color: rgba(255, 255, 255, 1);
     display: grid;
