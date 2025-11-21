@@ -18,11 +18,12 @@ body{
 }
 
 .profile-section{
-  height: 300px;
+  height: 100%;
   display: grid;
   grid-template-columns: 300.1px 994.69px;
   border-radius: 29px;
   gap:27px;
+  padding-bottom: 28px;
 
 }
 
@@ -71,7 +72,7 @@ body{
     margin-top: 2.34rem;
 }
 
-.skill-bar-level{
+.skill-name-bar-level{
     display: grid;
     grid-template-columns: 141px 321.88px;
     column-gap: 46.21px;
@@ -110,7 +111,7 @@ body{
     margin-top: 2.42rem;
 }
 
-.skills {
+.Skills-section {
     background-color: #FFFFFF;
     width: 650px;
     height:373px;
@@ -118,7 +119,7 @@ body{
     padding: 28px 28px 31.47px 28px;
 }
 
-.skill {
+.skills {
     display: flex;
     flex-wrap:wrap ;
     width: 67.281rem;
