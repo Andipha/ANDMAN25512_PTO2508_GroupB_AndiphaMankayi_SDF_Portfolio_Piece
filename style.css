@@ -510,7 +510,7 @@ a {
 
 @media (max-width: 640px) {
 
-    /* ⭐ PROFILE SECTION */
+    
     .profile-section {
         flex-direction: column;
         align-items: center;
@@ -532,7 +532,7 @@ a {
         font-size: 14px;
     }
 
-    /* ⭐ PROJECT CARDS (STACK + FULL WIDTH) */
+    
     .projects {
         display: flex;
         flex-direction: column;
@@ -545,7 +545,7 @@ a {
         box-sizing: border-box;
     }
 
-    /* ⭐ EDUCATION SECTION */
+    
     .education-bg-1,
     .education-bg-2,
     .education-bg-3 {
@@ -566,7 +566,7 @@ a {
         font-size: 12px;
     }
 
-      /* ⭐ TOOLS SECTION → SINGLE COLUMN */
+    
     .tools-section {
         display: flex;
         flex-direction: column;

@@ -1,8 +1,8 @@
 # ANDMAN25512_PTO2508_GroupB_AndiphaMankayi_SDF_Portfolio_Piece
 # 💻 Resume Project  
 
-This is my first major portfolio project as a **Software Development student**.  
-The goal is to create a personal online resume website using **HTML5** and **CSS3**, inspired by a Figma design.  
+This is my first major portfolio project a clean and responsive personal resume  as part of my journey as a  **Software Development student**.  
+The goal is to create a personal online resume website using **HTML5** and **CSS3**, inspired by a Figma design. 
 
 ---
 
@@ -30,12 +30,24 @@ I enjoy learning how to turn ideas into clean, functional, and user-friendly web
 - **Design Reference:** Figma
 - ---
 
-## 🎯 Features  
+## 🎯 Key Features  
 - Clean, responsive layout  
 - Semantic HTML structure  
 - Print-friendly A4 design  
 - Light/Dark aware design tokens  
-- Organized sections for Education, Skills, Projects, and Experience  
+-Fully responsive layout for mobile, tablet, and desktop
+- Organized sections for Education, Skills, Projects, and Experience 
+- Sections for:
+
+Education
+
+Skills
+
+Experience
+
+Projects
+
+Contact
 
 ---
 
